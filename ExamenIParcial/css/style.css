@@ -33,7 +33,7 @@ p{
 }
 
 @media (min-width: 768px) {
-    .main-nav a {
+    .nave-main a {
       display: inline;
     }
   }
